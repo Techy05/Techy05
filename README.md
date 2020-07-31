@@ -1,4 +1,5 @@
-### Hello There 👋🏻
+### Hello </`developers`> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+
 
 [![TechyNewbie's github stats](https://github-readme-stats.vercel.app/api?username=Techy05)](https://github.com/Techy05)  
 
@@ -17,6 +18,9 @@
 </a>
 
 <br />
+
+---
+[![HitCount](http://hits.dwyl.com/Techy05/Techy05.svg)](http://hits.dwyl.com/Techy05/Techy05)
 
 <!-- For Later Purposes
 **Techy05/Techy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
