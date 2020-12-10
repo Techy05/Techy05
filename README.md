@@ -10,7 +10,7 @@
 
 ---
 
-[![HitCount](http://hits.dwyl.com/Techy05/Techy05.svg)](http://hits.dwyl.com/Techy05/Techy05)
+<br>
 
 <i>Follow me around the web:</i><br>
 
